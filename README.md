@@ -19,6 +19,7 @@ Este repositório contém dois scripts independentes em Python para consulta aut
 
 ## 📦 Instalação
 
+Para Utilizar a distribuição oficial do CPython: https://www.python.org/downloads/
 Clone o repositório e instale as dependências necessárias, use o comando ou se preferir opte pelo .bat instalar_dependencias:
 
 ## Como Rodar o Script:
