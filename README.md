@@ -24,8 +24,6 @@ Clone o repositório e instale as dependências necessárias, use o comando ou s
 ## Como Rodar o Script:
 - **launcher.bat**: Certifique de ter instalado o Python3 e as dependências do script, coloque o script.py na mesma pasta em que o launcher.bat correspondente (Ex: LolCounter.py e lolcounter.bat), abra o launcher 'lolcounter.bat'.
 
-Code output
-README.md gerado com sucesso.
 
 ```bash
 pip install customtkinter requests beautifulsoup4 pillow
