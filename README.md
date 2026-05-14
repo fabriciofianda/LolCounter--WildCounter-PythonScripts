@@ -19,10 +19,14 @@ Este repositório contém dois scripts independentes em Python para consulta aut
 
 ## 📦 Instalação
 
-Clone o repositório e instale as dependências necessárias:
+Clone o repositório e instale as dependências necessárias, use o comando ou se preferir opte pelo .bat instalar_dependencias:
 
 Code output
 README.md gerado com sucesso.
 
 ```bash
 pip install customtkinter requests beautifulsoup4 pillow
+
+## Como Rodar o Script:
+- **launcher.bat**: Certifique de ter instalado o Python3 e as dependências do script, coloque o script.py na mesma pasta em que o launcher.bat correspondente (Ex: LolCounter.py e lolcounter.bat), abra o launcher 'lolcounter.bat'.
+
