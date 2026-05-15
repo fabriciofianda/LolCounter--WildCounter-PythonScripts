@@ -2,14 +2,19 @@
 
 Este repositório contém dois scripts independentes em Python para consulta automatizada de *matchups* (counters e sinergias) para League of Legends (PC) e Wild Rift (Mobile). As ferramentas utilizam técnicas de web scraping para extrair dados atualizados diretamente de plataformas de referência.
 
-<details>
-  <summary>Clique para ver as capturas de tela da interface</summary>
+<details open>
+  <summary>📸 Clique para ocultar as capturas de tela</summary>
   
-  ### LoLCounter
+  <br>
+
+  ### 🖥️ League of Legends Counters - Mobalytics + lol db
   ![Main UI](prints/lolcounter.png)
   
-  ### WildCounter
+  ---
+  
+  ### 📱 Wild Counters - Wild Rift Fire + loldb
   ![Search Example](prints/wildcounter.png)
+
 </details>
 
 ## 🚀 Funcionalidades
