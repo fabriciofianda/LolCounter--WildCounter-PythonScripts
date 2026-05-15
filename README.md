@@ -3,7 +3,7 @@
 Este repositório contém dois scripts independentes em Python para consulta automatizada de *matchups* (counters e sinergias) para League of Legends (PC) e Wild Rift (Mobile). As ferramentas utilizam técnicas de web scraping para extrair dados atualizados diretamente de plataformas de referência.
 
 <details open>
-  <summary>📸 Clique para ocultar as capturas de tela</summary>
+  <summary>Aba de Prints</summary>
   
   <br>
 
