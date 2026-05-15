@@ -5,10 +5,10 @@ Este repositório contém dois scripts independentes em Python para consulta aut
 <details>
   <summary>Clique para ver as capturas de tela da interface</summary>
   
-  ### Interface Principal
+  ### LoLCounter
   ![Main UI](prints/lolcounter.png)
   
-  ### Exemplo de Busca de Counter
+  ### WildCounter
   ![Search Example](prints/wildcounter.png)
 </details>
 
